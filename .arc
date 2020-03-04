@@ -1,5 +1,5 @@
 @app
-graphql-example
+bird-3vt
 
 @static
 folder public
