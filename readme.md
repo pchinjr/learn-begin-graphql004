@@ -4,7 +4,7 @@
 https://learn.begin.com
 
 ## Deploy your own
-
+## Praise Cage
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/learn-node-graphql)
 
 Deploy your own clone of this app to Begin!
